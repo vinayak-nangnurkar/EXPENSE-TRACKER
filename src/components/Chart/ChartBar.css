@@ -1,0 +1,38 @@
+.chartbar {
+    height: 100%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 2%;
+  
+}
+
+.chartbar-inner{
+   width: 100%;
+height: 100%;
+border-radius: 12px;
+background-color: #b8b8ff;
+border: 1px solid #313131;
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+overflow: hidden;
+
+}
+.chartbar-inner__fill {
+    background-color: #4826b9;
+    width: 100%;
+    transition: all 0.3s ease-out;
+  }
+
+
+
+
+  .chartbar__label {
+    font-weight: bold;
+    font-size: 0.5rem;
+    text-align: center;
+  }
+
+
+
