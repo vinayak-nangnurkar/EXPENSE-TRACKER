@@ -72,13 +72,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Project Screenshots
 
+### First Look of Project
 ![1](https://user-images.githubusercontent.com/64656198/224525074-9788d38a-d2b6-4730-805c-4ac1377d87fe.png)
 
-
+### Add Expenses
 ![2](https://user-images.githubusercontent.com/64656198/224525081-bfd2c5a7-0b48-43bd-9b36-03f0f4db4777.png)
 
-
+### Expense Added Successfully
 ![3](https://user-images.githubusercontent.com/64656198/224525087-25940e2a-6aa5-417f-ad45-f2d57acef08d.png)
 
-
+### Filtered Expenses based on Months
 ![4](https://user-images.githubusercontent.com/64656198/224525104-06728c84-f13e-4aee-8d57-8f766e8813e7.png)
